@@ -39,7 +39,7 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 *   **Education:** BA/BS degree in Mathematics, Probability and Statistics, Micro-economics or related field, or equivalent practical experience.
 *   **Experience:** 3+ years as a data or technical business analyst
 *   **Numbers and data:** You’re good at making spreadsheets that are understandable, you know SQL. You know multiple probability distributions.
-*   **Language: ** fluent English, French is a very big plus (the data team is French at the moment)
+*   **Language:** fluent English, French is a very big plus (the data team is French at the moment)
 *   **Writing:** you enjoy writing, you care about words and grammar, you are sharp and thorough
 *   **Collaboration:** Ability to build effective relationships with colleagues across organizations and functional groups
 *   **Project management:** you are organized, able to manage multiple projects at the same time, and know how to report progress in a clear and interesting way. Leadership and people management are a big plus.
@@ -48,7 +48,7 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 *   Experience BigQuery and Google Datastudio
 *   Experience in data science (simple machine learning models)
 
-**Benefits: **(subject to change depending on your location and tax regime)
+**Benefits:** (subject to change depending on your location and tax regime)
 *   A good compensation that gives you financial peace of mind, wherever you live
 *   Paid vacation
 *   Medical, dental and vision insurance
