@@ -64,7 +64,7 @@ We want to get a sense of how you write and think. To that end, please write an 
 3.  You’ll then move on to an interview with a Lead Engineer
 4.  Finally, an interview with the CEO and CTO
 
-Send us your cover letter and resume, plus any public profile or material you feel relevant to [stanislas@talarian.io](mailto:stanislas@talarian.io)
+Send us your cover letter and resume, plus any public profile or material you feel relevant to [stan@talarian.io](mailto:stan@talarian.io)
 
 We will first ask you a few targeted questions to be answered by email so as to get acquainted to you in writing. If that goes well, we’ll send you a “product test”. You’ll then move on to an interview with a the Lead Data Analyst, Data Engineer and then with the CEO
 
