@@ -2,7 +2,7 @@
 
 **Company**
 
-We are a small growing and profitable software company that is building the future of spreadsheet-driven business applications. Some of our products include [YAMM](https://yamm.com/), [Awesome Table](https://awesome-table.com/) and [Form Publisher](https://workspace.google.com/marketplace/app/form_publisher_approval_workflow/827172627657). They are some of the most popular products in the Google Workspace marketplace.
+We are a small growing and profitable software company that is building the future of spreadsheet-driven business applications. Some of our products include [YAMM](https://yamm.com/), [Awesome Table](https://awesome-table.com/) and [Form Publisher](https://form-publisher.com). They are some of the most popular products in the Google Workspace marketplace.
 
 Our team is global (we have people based in France, Italy, Serbia, Bulgaria, Russia, US, Philippines, UK, Ireland), highly motivated and competent. We are a remote first company: anyone can work fully remotely. We also have offices in Paris and Milan if that’s more your thing.
 
