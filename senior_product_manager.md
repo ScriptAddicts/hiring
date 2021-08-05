@@ -11,9 +11,9 @@ We’re a transparent organization. Important metrics and numbers are communicat
 
 **Job**
 
-  We are looking for a highly motivated Product Manager to join our growing team! In the words of Joel Spolsky, a [Product Manager is invaluable](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) (back in the day Microsoft called them Program Managers, but Product Manager seems to be the correct wording nowadays...). They make sure that the product isn’t driven by technical elegance more than marketability, and they make sure everyone is aligned on the product direction.
+We are looking for two highly motivated Product Managers for Awesome Table and Form Publisher In the words of Joel Spolsky, a [Product Manager is invaluable](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) (back in the day Microsoft called them Program Managers, but Product Manager seems to be the correct wording nowadays...). They make sure that the product isn’t driven by technical elegance more than marketability, and they make sure everyone is aligned on the product direction.
 
-Working as a Product Manager at Form Publisher is a unique opportunity. We have millions of users and thousands of customers waiting for you to make their lives easier. We are a small team, so you won’t be one of a hundred and your impact will be felt inside and outside the company. You will help drive us in new directions. You’ll help us see things we haven’t seen before, consider things we’ve never considered before, and bring fresh perspective to our team. Brighten us up and put a big smile on our customers’ faces.
+Working as a Product Manager at Talarian is a unique opportunity. You would be the first Product Manager of Form Publisher or Awesome Table, with a lot of room to maneuver These products are profitable, have millions of users and thousands of customers waiting for you to make their lives easier. We are a small team, so you won’t be one of a hundred and your impact will be felt inside and outside the company. You will help drive us in new directions. You’ll help us see things we haven’t seen before, consider things we’ve never considered before, and bring fresh perspective to our team. Brighten us up and put a big smile on our customers’ faces.
 
 The Product Manager will report to the CEO and work closely with the Design, Engineering and Support teams.
 
@@ -53,7 +53,7 @@ The Product Manager will report to the CEO and work closely with the Design, Eng
 
 **How to apply:**
 We want to get a sense of how you write and think. To that end, please write an email that covers at least the following:
--   Tell us why you would like to work on Form Publisher
+-   Tell us why you would like to work on Form Publisher or Awesome Table
 -   Provide a spec that you have written
 -   Tell us which statements don’t fit you in the list of qualities above, and how you make up for it
 -   We value great writers, so take your time with the application. Don't write about abstract frameworks of thought, only concrete things. Stock cover letters won’t do.
