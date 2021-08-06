@@ -1,4 +1,4 @@
-# Senior Backend Engineer (YAMM)
+# Senior Software Engineer (YAMM)
 
 Do you like having the time and freedom to explore a problem and its potential solutions? Want to be part of a company where your ideas can be easily and openly discussed? How about being able to have a high impact on a product with millions of users? You’ve knocked at the right door.
 
