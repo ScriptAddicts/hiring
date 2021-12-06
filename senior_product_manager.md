@@ -66,10 +66,12 @@ The Senior Product Manager will report to the CEO and work closely with the Engi
 ## How to apply
 
 We want to get a sense of how you write and think. To that end, please write an email that covers at least the following:
--   Tell us why you would like to work on Form Publisher or Awesome Table
--   Provide a spec that you have written
+-   Tell us why you you think our products are interesting
+-   Provide a spec or a link to something you have written
 -   Tell us which statements don’t fit you in the list of qualities above, and how you make up for it
--   We value great writers, so take your time with the application. Don't write about abstract frameworks of thought, only concrete things. Stock cover letters won’t do.
+-   Ask some questions you might have
+
+We value great writers, so take your time with the application. Don't write about abstract frameworks of thought, only concrete things. Stock cover letters won’t do.
 
 Send your email and resume, plus any public profile or material you feel relevant to [stan@talarian.io](mailto:stan@talarian.io)
 
