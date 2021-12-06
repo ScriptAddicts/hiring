@@ -52,7 +52,7 @@ The Senior Product Manager will report to the CEO and work closely with the Engi
 ## Requirements
 
 * **Experience:** 5+ years of experience in a product management at a software company, preferably a SaaS 
-* **Language: **completely** **fluent** **English, French is a plus but not necessary. Did I mention you should write well?
+* **Language:** completely fluent English, French is a plus but not necessary. Did I mention you should write well?
 * **Project management:** Our products have a ton of users, and prioritisation can be really challenging. You need to be extremely organized and flexible.
 * **Tools:** you know and love Google Workspace, and ideally, you have experience with Jira, Github, Zendesk or equivalent
 
