@@ -73,7 +73,7 @@ We want to get a sense of how you write and think. To that end, please write an 
 
 We value great writers, so take your time with the application. Don't write about abstract frameworks of thought, only concrete things. Stock cover letters won’t do.
 
-Send your email and resume, plus any public profile or material you feel relevant to [stan@talarian.io](mailto:stan@talarian.io)
+Send your email and resume to [stan@talarian.io](mailto:stan@talarian.io)
 
 ## Interview process
 
