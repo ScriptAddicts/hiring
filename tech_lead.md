@@ -12,11 +12,11 @@ Our product values are: simplicity, empowerment, and getting out of the way.
 
 ## Job description
 
-We are hiring a highly motivated Senior Technical Lead/CTO who will take ownership of the technical strategy and execution of YAMM development, with the possibility to enlarge the scope to more products after some time.
+We are hiring a highly motivated Senior Technical Lead/CTO who will take ownership of the technical strategy and execution of a product development, with the possibility to enlarge the scope to more products after some time.
 This is both a leadership and hands-on role: you will have to get your hands dirty at times and dig in code.
 
 ## Why it’s technically interesting to work on our products:
-* They are global-scale products, used in every kind of organization, by millions of people who speak different languages, have varying accessibilty requirements, and wildly differing hardware/network
+* They are global-scale products, used in every kind of organization, by millions of people who speak different languages, have varying accessibility requirements, and wildly differing hardware/network
 * The products share many capabilities and are made of many different subsystems, which poses coordination challenges
 * The products are built on serverless components allowing them to scale nicely
 * Building on top of Google means building on top of a fast-evolving platform. They push us forward, and we must keep up
@@ -27,7 +27,7 @@ This is both a leadership and hands-on role: you will have to get your hands dir
 
 Our products are typically made of the following subproducts:
 
-* A Google Workspace add-on which is small real-estate web-app integrated with Google Sheets/Forms. This is where the bulk of the functionality is exposed to users.
+* A Google Workspace add-on which is a small real-estate web-app integrated with Google Sheets/Forms. This is where the bulk of the functionality is exposed to users.
 * A typical dashboard front-end, which contains administration and analytics.
 * A business logic back-end
 * A payments and billing back-end
