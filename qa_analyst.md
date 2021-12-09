@@ -2,7 +2,7 @@
 
 ## Company
 
-[Talarian](http://talarian.io) is a small, growing, and profitable software company that is building the future of spreadsheet-driven business applications. Some of our products include, [YAMM](https://yamm.com/),[ Awesome Table](https://awesome-table.com/), and [Form Publisher](https://form-publisher.com). They are used and loved by millions and some of the most popular products in the Google Workspace marketplace.
+[Talarian](http://talarian.io) is a small, growing, and profitable software company that is building the future of spreadsheet-driven business applications. Our main products are [YAMM](https://yamm.com/),[ Awesome Table](https://awesome-table.com/), and [Form Publisher](https://form-publisher.com). They are used and loved by millions and some of the most popular products in the Google Workspace marketplace.
 
 Our company is around 30 people, remote-first and global (we have people based in Western and Eastern Europe, Philippines, Nigeria), all highly motivated and dedicated.
 
