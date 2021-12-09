@@ -21,7 +21,7 @@ Our products are typically made of the following subproducts:
 
 
 
-* A Google Workspace add-on which is small real-estate web-app integrated with Google Sheets/Forms. This is where the bulk of the functionality is exposed to users.
+* A Google Workspace add-on which is a small real-estate web-app integrated with Google Sheets/Forms. This is where the bulk of the functionality is exposed to users.
 * A typical dashboard front-end, which contains administration and analytics.
 * A business logic back-end
 * A payments and billing back-end
