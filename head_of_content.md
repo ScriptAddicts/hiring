@@ -49,8 +49,8 @@ _The Head Brand & Content will report to the CEO and work closely with the Growt
 ## How to apply
 
 We want to get a sense of how you write and think. To that end, please write an email that covers at least the following:
--   Tell us why you you think our products are interesting
--   Provide a spec or a link to something you have written
+-   Tell us why you want to market our products
+-   Provide links to content you've produced
 -   Tell us which statements don’t fit you in the list of qualities above, and how you make up for it
 -   Ask some questions you might have
 
