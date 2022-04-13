@@ -7,13 +7,16 @@
 
 We are a small growing and profitable software company that is building the future of spreadsheet-driven business applications. Some of our products include [YAMM](https://yamm.com/), [Awesome Table](https://awesome-table.com/) and [Form Publisher](https://form-publisher.com). They are some of the most popular products in the Google Workspace marketplace.
 
-Our team is global (we have people based in France, Italy, Serbia, Bulgaria, Russia, US, Philippines, UK, Ireland), highly motivated and competent. We are a remote first company: anyone can work fully remotely. We also have offices in Paris and Milan if that’s more your thing.
+We’re Talarian, the makers of [YAMM](https://yamm.com/), [Awesome Table](https://awesome-table.com/) and [Form Publisher](https://form-publisher.com). We’re a small, growing, and profitable software company that is building the future of spreadsheet-driven business applications. With over 44 million downloads and team customers like Uber, Berkeley U, Epic Games and Airbnb, Talarian’s products have established themselves as market leaders. More importantly, our 4.8+ rating on Trustpilot means our customers don’t just need us, they love us.
 
-We’re a transparent organization. Important metrics and numbers are communicated to all team members. Decisions are discussed collaboratively, not behind closed doors. If you value being part of the discussions on how to shape the future of the product, by giving your input, weighing in and being heard, then you might just be happy to work with us.
+Our company is just under 40 people, 100% remote and truly global (we have people spread out across Europe, Africa, Asia and America), all highly motivated and dedicated.
+
+As an organization, we’re transparent and relatively flat. Important metrics and numbers are communicated to all team members. Decisions are made collaboratively, not behind closed doors. If you value being part of the discussion on how to shape the future of the product, then this is the company for you.
+
 
 **Job**
 
-Do you like having some creative freedom where your ideas can be easily discussed and implemented in a small and dynamic company? How about being able to have a high impact on a product with tens of millions of users? Do you like spreadsheets and SQL? You’ve knocked at the right door.
+Do you like having some creative freedom where your ideas can be easily discussed and implemented in a small and dynamic company? How about being able to have a high impact on a product with millions of users? Do you like spreadsheets and SQL? You’ve knocked at the right door.
 
 We are looking for a highly motivated Senior Data Analyst to join our growing team! You will report to the Lead Data Analyst and work closely with the Product and Engineering teams.
 
@@ -21,12 +24,10 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 
 
 
-*   Write SQL queries, produce spreadsheets, and create dashboards that explain all parts of the business (from revenue to user retention, and who are our users) and product usage (what our users do with our product and how) and will help drive business and product decisions
-*   We have millions of users across the world, which make for large and interesting datasets
+*   Write SQL queries, produce spreadsheets, and create dashboards that explain and support all parts of the business (marketing, revenue, and who are our users) and product usage (what our users do with our product and how) and will help drive business and product decisions
 *   Coordinate with the developers to help specify and maintain data dictionaries, to ensure we are logging and storing correct data at the right time. 
 
 **You:**
-
 
 
 *   Are really good with numbers - in both the accountant way (producing correct numbers with a correct process) and the physicist way (you have a real physical feel for numbers, and frame problems as equations)
@@ -39,19 +40,18 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 *   Our legacy datasets are a bit of a mess, this shouldn’t scare you.
 
 **Your qualifications:**
-*   **Education:** BA/BS degree in Mathematics, Probability and Statistics, Micro-economics or related field, or equivalent practical experience.
+*   **Education:** BA/BS degree in Mathematics, Probability and Statistics, or Physics.
 *   **Experience:** 3+ years as a data or technical business analyst
 *   **Numbers and data:** You’re good at making spreadsheets that are understandable, you know SQL. You know multiple probability distributions.
-*   **Language:** fluent English, French is a very big plus (the data team is French at the moment)
+*   **Language:** fluent in French and English
 *   **Writing:** you enjoy writing, you care about words and grammar, you are sharp and thorough
 *   **Collaboration:** Ability to build effective relationships with colleagues across organizations and functional groups
-*   **Project management:** you are organized, able to manage multiple projects at the same time, and know how to report progress in a clear and interesting way. Leadership and people management are a big plus.
+*   **Project management:** you are organized, able to manage multiple projects at the same time, and know how to report progress in a clear and interesting way.
 
 **Bonus:**
-*   Experience BigQuery and Google Datastudio
-*   Experience in data science (simple machine learning models)
+*   Experience with BigQuery and Google Datastudio
 
-**Benefits:** (subject to change depending on your location and tax regime)
+**Benefits:** (subject to change depending on your location)
 *   A good compensation that gives you financial peace of mind, wherever you live
 *   Paid vacation
 *   Medical, dental and vision insurance
@@ -59,17 +59,15 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 
 **How to apply:**
 
-We want to get a sense of how you think. To that end, please use your cover letter to share with us your take on the following questions:
-
-
+We want to get a sense of how you think and write. To that end, please send us an email  the following questions:
 
 *   Tell us why you want this job, not just any job
 *   Tell us about what you like and dislike about SQL
 *   What was the last thing you learned?
-*   We value great writers, so take your time with the application. Stock cover letters won’t do.
 
-Send us your cover letter and resume, plus any public profile or material you feel relevant to [stan@talarian.io](mailto:stan@talarian.io)
+We value great writers, so take your time with the application. Stock cover letters won’t do.
+Attach your resume, and any public profile or material you feel relevant to [stan@talarian.io](mailto:stan@talarian.io)
 
-We will first ask you a few targeted questions to be answered by email so as to get acquainted to you in writing. If that goes well, we’ll send you a “data analyst test”. You’ll then move on to an interview with a the Lead Data Analyst, Data Engineer and then with the CEO
+We will first ask you a few targeted questions to be answered by email so as to get acquainted to you in writing. If that goes well, we’ll send you a “data analyst test”. You’ll then move on to an interview with the Data team and then with the CEO
 
 We can’t wait to hear from you!
