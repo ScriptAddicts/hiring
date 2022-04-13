@@ -40,7 +40,7 @@ We are looking for a highly motivated Senior Data Analyst to join our growing te
 *   Our legacy datasets are a bit of a mess, this shouldn’t scare you.
 
 **Your qualifications:**
-*   **Education:** BA/BS degree in Mathematics, Probability and Statistics, or Physics.
+*   **Education:** Degree in Mathematics, Probability and Statistics, or Physics at a top university/school.
 *   **Experience:** 3+ years as a data or technical business analyst
 *   **Numbers and data:** You’re good at making spreadsheets that are understandable, you know SQL. You know multiple probability distributions.
 *   **Language:** fluent in French and English
