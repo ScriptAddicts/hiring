@@ -1,4 +1,4 @@
-# This position is not currently open
+# This position is currently open
 
 
 ## Senior Data Analyst
