@@ -75,8 +75,8 @@ We want to get a sense of how you write and think. To that end, please write an 
 
 
 * Tell us why you want this job, and why you’re interested in building our products
-* Tell us about something you’ve built that you’re proud of, show us some code if possible
-* Tell us what you’re excited about in programming these days
+* Tell us what you like and dislike about SQL
+* Show us a data visualization you’ve made that you’re proud of and say why
 * If possible, include a link to something you have written online
 * Please ask the questions you have
 
