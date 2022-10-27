@@ -90,7 +90,6 @@ Our marketing websites are coded in NextJS and hosted on Vercel.
 
 ## Compensation and benefits:
 
-* The range for this role is EUR 70k-110k, depending on experience and type of contract
 * 30 days of paid time off
 * Medical, dental and vision insurance (depending on the type of contract)
 * Paid parental leave
