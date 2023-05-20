@@ -56,7 +56,7 @@ The Product Leader will report to the CEO and work closely with the Engineering,
 * **Experience:** 5+ years of experience in an intense job where you actually built something significant, preferably in software but it could be in another technical field. CEO or COO experience welcome.
 * **Language:** completely** **fluent in** **English and French. Did I mention you should write well?
 * **Tools:** you know and love Google Workspace and/or Microsoft Office, and ideally, you have experience with Jira, Github, Zendesk or equivalent software
-* **Location:** in our Paris office, outside of Paris possible for extraordinary profiles
+* **Location:** Paris office (6 rue Beaubourg 75004) with partial remote work possible
 
 ## How to apply
 
