@@ -52,7 +52,7 @@ The Product Leader will report to the CEO and work closely with the Engineering,
 
 ### **Requirements:**
 
-* **Experience:** 5+ years of experience in an intense job, preferably in software but it could be in another technical field. CEO or COO experience welcome.
+* **Experience:** 5+ years of experience in an intense job where you actually built something significant, preferably in software but it could be in another technical field. CEO or COO experience welcome.
 * **Language:** completely** **fluent in** **English and French. Did I mention you should write well?
 * **Tools:** you know and love Google Workspace and/or Microsoft Office, and ideally, you have experience with Jira, Github, Zendesk or equivalent software
 * **Location:** in our Paris office, outside of Paris possible for extraordinary profiles
