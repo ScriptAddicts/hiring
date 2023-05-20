@@ -33,7 +33,7 @@ The Product Leader will report to the CEO and work closely with the Engineering,
 * Build a great product, increase revenue and make customers happy
 * Talk to users and track key metrics
 * Drive the roadmap conversation
-* Write functional specifications for everything and anything: new features, bug fixes, billing system upgrades, etc. Break down the specs into Jira tickets
+* Write functional specifications for everything and anything: new features, bug fixes, billing system upgrades, etc.
 * Write product and marketing copy: in product copy, help pages, FAQs, feature descriptions, use-cases
 * Coordinate and plan development, releases and issue remediation with Engineering, Technical Writers, Support and Marketing
 * Hire and fire
