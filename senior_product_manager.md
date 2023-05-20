@@ -18,7 +18,7 @@ Here’s a few reasons why it’s exciting and interesting:
 
 
 * LLMs are the most interesting and revolutionary new tech in decades. It is a very deep and wide technology that allows to build completely new capabilities into software.
-* The GPT for Work user base is growing fast. In only a few months of existence it has gone viral, been installed by more than [2 million people](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654) since its launch in early January, and has been described by Marc Andreessen as a “[killer app](https://twitter.com/pmarca/status/1632855301648183296?s=20)”.
+* The GPT for Work user base is growing fast. In only a few months of existence it has gone viral, been installed by more than [2 million people](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654), and has been described by Marc Andreessen as a “[killer app](https://twitter.com/pmarca/status/1632855301648183296?s=20)”.
 * Users are absolutely loving it, just look at the comments on our [Youtube channel](https://www.youtube.com/@gptforwork/featured), and they have seen nothing yet.
 * The market is global, and we have users from all over the world
 * It is the first time that we have a product on Microsoft, which opens up a huge market, and there is everything to build there
