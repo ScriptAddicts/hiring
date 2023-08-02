@@ -75,10 +75,10 @@ Working with us requires a lot of writing/communicating, so please use your appl
 
 ## Interview process:
 
-1.Discovery interview with the CTO
-1.If that goes well, we’ll send you a take-at-home technical test
-1.You’ll then move on to an interview with some Tech leads
-1.A final interview with the CTO and CEO
+1. Discovery interview with the CTO  
+2. If that goes well, we’ll send you a take-at-home technical test  
+3. You’ll then move on to an interview with some Tech leads  
+4. A final interview with the CTO and CEO
 
 We can’t wait to hear from you!
 
