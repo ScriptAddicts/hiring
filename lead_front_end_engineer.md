@@ -1,3 +1,4 @@
+# This position is currently open
 # Lead Software Engineer (front-end)
 
 
