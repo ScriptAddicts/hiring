@@ -1,4 +1,5 @@
-# Senior Technical Lead / CTO
+# This position is currently open
+# Senior Technical Lead
 
 
 ## Company
