@@ -1,3 +1,4 @@
+# This position is currently open
 # **Product Leader - GPT for Work**
 
 ## **Company**
