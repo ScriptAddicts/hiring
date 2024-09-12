@@ -1,3 +1,4 @@
+# POSITION NOT OPEN AT THE MOMENT
 # Head of Brand and Content
 
 ## Company
